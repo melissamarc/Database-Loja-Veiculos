@@ -1,0 +1,1 @@
+Este arquivo apresenta um banco de dados realizado para uma loja de automóveis.
